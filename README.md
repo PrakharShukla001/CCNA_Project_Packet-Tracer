@@ -70,6 +70,6 @@ Feel free to contribute by creating a Pull Request or sharing your feedback! �
 
 ## 📞 Connect with Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/rajatkumarsingh17041995
+🔗 LinkedIn: https://www.linked.com/in/prakhar-shukla-267025191
 
-📧 Email: rajatoutbox@outlook.com
+📧 Email: prakharshuklatech@gmail.com

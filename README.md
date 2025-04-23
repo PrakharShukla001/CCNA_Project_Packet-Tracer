@@ -42,8 +42,8 @@
 
 ## 🔗 Download the Project
 
-- Project file : **[Click Here to Download](https://github.com/rajatoutbox/CCNA-Packet--Tracer-Project/blob/edacc74a208145f3e6a8f7209bf92f3c32d4fdc4/Updates/v2.3.pkt)**
-- Config file : **[Click Here to Download](https://github.com/rajatoutbox/CCNA-Packet--Tracer-Project/blob/224d537c0a7114c4a5842e64ec9125f05d3063d4/configuration/v2.0config.txt)**
+- Project file : **[Click Here to Download](https://github.com/rajatoutbox/CCNA-Packet--Tracer-Project/blob/edacc74a208145f3e6a8f7209bf92f3c32d4fdc4/Updates/v2.3.pkt?=true)**
+- Config file : **[Click Here to Download](https://github.com/PrakharShukla001/CCNA_Project_Packet-Tracer/blob/0263506be8fe3c7985a7c62ca71ea94c5dda1205/Configurations/config.txt?=true)**
 
 ## 🛠 Next Steps & Future Improvements
 

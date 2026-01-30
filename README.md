@@ -33,11 +33,6 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -50,7 +45,7 @@
 
 ⭐️ From https://github.com/PrakharShukla001
 
-# CCNA-Packet-Tracer-Project  
+                                    # CCNA-Packet-Tracer-Project  
 ### 🏷️ VERSION 2.3 | 📅 PUBLISH DATE: 15 April 2025 | ALWAYS DOWNLOAD LATEST VERSION .pkt file |
 
 ## 📌 Project Overview  

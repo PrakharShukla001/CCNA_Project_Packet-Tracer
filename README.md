@@ -1,8 +1,8 @@
-<h2> # Hey there! I'm Prakhar. </h2>
+# <h2> Hey there! I'm Prakhar. </h2>
 <img align="right" alt="GIF" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVc9IYg6G2xQh2ODAJM0QEmp7Mvo2lvfA_sMhmUE8klbeBVfhJIzgK1Ilqj2rOozmjeDfd2rZ4aYaU7mQn88gVevbkCJZF_I1PDZbRLWo_eCrVe8ZTv5-G-PWC7eHiBDR1-CUgqiLFSGcHZI9ZDaq2GKKr2GNJgB9qWIPmot37wXG4NtZ8DW-wmsi8dg/w554-h229/DEVOPS.gif" width="500"/>
 
 
- 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🚀 DevOps Engineer with a strong background in Networking and hands-on experience in automation and cloud technologies.
 
